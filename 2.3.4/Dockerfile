@@ -3,7 +3,7 @@ MAINTAINER jieyang <admin@jevic.cn>
 ENV EFRESHED_AT 2017-12-25
 ENV LOGSTASH_VERSION 2.3.4
 ENV TZ Asia/Shanghai
-ENV URL https://logstash.com/logstash.tar.gz
+ENV URL http://p1awgv97o.bkt.clouddn.com/logstashIPIP.tar.gz
 
 RUN cd /opt/ \
     && wget $URL \
